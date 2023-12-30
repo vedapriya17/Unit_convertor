@@ -20,3 +20,12 @@ decagram,gram,decigram,centigram,milligram and pounds.
 👉error handling to handle invalid inputs
 
 👉provides clear instructions and user-friendly output.
+
+Have a look,how it works👀
+
+![Screenshot 2023-12-30 220546](https://github.com/vedapriya17/Unit_convertor/assets/140573640/9d908156-22d6-41d4-83a1-cf309097ca65)
+  
+![Screenshot 2023-12-30 220613](https://github.com/vedapriya17/Unit_convertor/assets/140573640/40cac17b-e284-441c-b64d-445094d13b72)
+
+![Screenshot 2023-12-30 220814](https://github.com/vedapriya17/Unit_convertor/assets/140573640/c6aa0055-ec43-4094-ac34-6007a7028f62)
+
