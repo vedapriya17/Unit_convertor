@@ -2,9 +2,9 @@
 
 👉this is a Python program that can convert between different temperature, length,area, weight of measurement.
 
--Area Convertor:which Converts between square metre,km,rood,cm,foot,inch,mile,millimetres,rod,yard,township,acre,are,barn,hectare and homestead
+- Area Convertor:which Converts between square metre,km,rood,cm,foot,inch,mile,millimetres,rod,yard,township,acre,are,barn,hectare and homestead
 
--Temperature Converter:which Converts between celsius  fahrenheit
+- Temperature Converter:which Converts between celsius  fahrenheit
 
 - Length Converter:which Converts between nautical miles,miles,yards,feet,inches, kilometres , meters, centimetres and millimetres .
 
